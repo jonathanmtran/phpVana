@@ -1,6 +1,6 @@
 # phpVana
 
-A web-based Vana manager created by Jonathan of RandomlyPoked.com
+A web-based Vana manager created by Jonathan of RandomlyPoked.com (17 June 2008 - 19 July 2009)
 This project was taken over by Diamondo25.
 
 # Set Up
