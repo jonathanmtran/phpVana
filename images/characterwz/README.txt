@@ -1,0 +1,1 @@
+Read the README.txt in the root folder of your phpVana checkout.

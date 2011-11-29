@@ -1,0 +1,10 @@
+<?php
+//// MySQL Configuration
+// Host
+$db_host = "localhost";
+// Username
+$db_user = "root";
+// Password
+$db_pass = "";
+// Database
+$db_name = "maplestory";

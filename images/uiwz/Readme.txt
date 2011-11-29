@@ -1,0 +1,1 @@
+To fill this folder, read the readme file in the root folder of phpVana.
